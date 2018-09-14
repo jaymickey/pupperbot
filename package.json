@@ -1,0 +1,14 @@
+{
+  "name": "webtask-hack",
+  "version": "1.0.0",
+  "main": "webtask.js",
+  "author": "Josh Michielsen",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
+}
