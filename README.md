@@ -1,5 +1,7 @@
 # Auth0 Webtask Hack
 
+**Test it!: [@PupperBot_](https://twitter.com/PupperBot_)**
+
 A twitter bot that replies to users who mention it along with a dog breed. It is written in Node.js and utilises the following services:
 
 - [webtask.io](https://webtask.io)
