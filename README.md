@@ -1,4 +1,4 @@
-# Auth0 Webtask Hack
+# PupperBot - Twitter Bot for Dog Lovers!
 
 **Test it!: [@PupperBot_](https://twitter.com/PupperBot_)**
 
