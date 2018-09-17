@@ -19,7 +19,7 @@ const getBreedImage = async (breedName, subtype = '') => {
 
 module.exports = async (ctx, cb) => {
 
-  // return immediately if @PupperBot_ isn't the first word in the tweet
+  // Return immediately if @PupperBot_ isn't the first word in the tweet
   if (!ctx.query.body.startsWith('@PupperBot_')) {
     cb(null, 'Success')
     return

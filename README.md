@@ -26,6 +26,8 @@ Once a Twitter developer account has been created:
 - Retreive the consumer token & secret, and access token & secret
 - Create a `secrets` file in the format of `KEY=VALUE`, one line per secret
 
+See the [`secrets.example` file](secrets.example) for more details.
+
 ## Deploy
 
 `wt create --secrets-file secrets --name PupperBot webtask.js`
